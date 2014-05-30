@@ -17,6 +17,7 @@ author:
 
 requires:
   perl: 5.8.1
+  Pegex: 0
 
 test:
   requires:
